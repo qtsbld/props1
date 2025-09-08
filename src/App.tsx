@@ -1,4 +1,3 @@
-import React from "react";
 import SimpleProductCard from "./components/SimpleProductCard";
 
 function App() {
